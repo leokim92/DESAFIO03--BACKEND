@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "title": "Ostrich",
+      "description": "Fly Run.",
+      "price": 99.99,
+      "thumbnail": "NO IMG",
+      "code": "Don't Fly And Run",
+      "stock": 142
+    },
+    {
+      "id": 2,
+      "title": "Jonny Cage",
+      "description": "Fly high",
+      "price": 1025,
+      "thumbnail": "NO IMG",
+      "stock": 1444,
+      "code": "Fight"
+    },
+    {
+      "title": "Owl",
+      "description": "Fly Strong",
+      "price": 134,
+      "thumbnail": "NO IMG",
+      "code": "Animal",
+      "stock": 142,
+      "id": 3
+    },
+    {
+      "title": "Falcon",
+      "description": "Fly Fast",
+      "price": 12354,
+      "thumbnail": "NO IMG",
+      "code": "Animal King",
+      "stock": 2908,
+      "id": 4
+    },
+    {
+      "title": "Condor",
+      "description": "Fly Big",
+      "price": 19475,
+      "thumbnail": "NO IMG",
+      "code": "Animal Bird",
+      "stock": 3456,
+      "id": 5
+    },
+    {
+        "title": "Bird",
+        "description": "Fly Small",
+        "price": 201847,
+        "thumbnail": "NO IMG",
+        "code": "Animal Tiny",
+        "stock": 14723,
+        "id": 6
+      },
+      {
+        "title": "Eagle",
+        "description": "Fly Stealth",
+        "price": 100024,
+        "thumbnail": "NO IMG",
+        "code": "Animal Assassin",
+        "stock": 48712,
+        "id": 7
+      },
+      {
+        "title": "Pelican",
+        "description": "Fly Fat",
+        "price": 185874,
+        "thumbnail": "NO IMG",
+        "code": "Animal Big Mouth",
+        "stock": 1124,
+        "id": 8
+      },
+      {
+        "title": "Parrot",
+        "description": "Fly Noisy",
+        "price": 5554,
+        "thumbnail": "NO IMG",
+        "code": "Animal Speak",
+        "stock": 6487,
+        "id": 9
+      },
+      {
+        "title": "Penguin",
+        "description": "Fly Not",
+        "price": 48752,
+        "thumbnail": "NO IMG",
+        "code": "Animal Dont Fly",
+        "stock": 6487,
+        "id": 10
+      }
+  ]
